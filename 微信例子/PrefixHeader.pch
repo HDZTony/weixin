@@ -1,0 +1,37 @@
+//
+//  PrefixHeader.pch
+//  微信例子
+//
+//  Created by 何东洲 on 15/11/27.
+//  Copyright © 2015年 何东洲. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#define HDColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+// 随机色
+#define HDRandomColor HDColor(arc4random_uniform(256), arc4random_uniform(256), arc4random_uniform(256))
+// cell的内边距
+#define HDPhotosMaxCols(photosCount) ((photosCount==4)?2:3)
+#define HDPhotosMaxCount 9
+#define HDPhotoW 70
+#define HDPhotoH HDPhotoW
+#define HDPhotoMargin 10
+#define HDEmotionToolbarButtonMaxCount 4
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+/** 表情相关 */
+// 表情的最大行数
+#define HDEmotionMaxRows 3
+// 表情的最大列数
+#define HDEmotionMaxCols 7
+// 每页最多显示多少个表情
+#define HDEmotionMaxCountPerPage (HDEmotionMaxRows * HDEmotionMaxCols - 1)
+// 通知
+// 表情选中的通知
+#define HDEmotionDidSelectedNotification @"HDEmotionDidSelectedNotification"
+// 点击删除按钮的通知
+#define HDEmotionDidDeletedNotification @"HDEmotionDidDeletedNotification"
+// 通知里面取出表情用的key
+#define HDSelectedEmotion @"HDSelectedEmotion"
+#endif /* PrefixHeader_pch */

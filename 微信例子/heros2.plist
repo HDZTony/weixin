@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>icon</key>
+        <string>225382419902.png</string>
+        <key>text</key>
+        <string>大多数士兵会依赖他们的武器。只有少数人才会真正地相互依赖。——奎因</string>
+        <key>name</key>
+        <string>德玛西亚之翼·奎因</string>
+    </dict>
+    <dict>
+        <key>time</key>
+        <string>星期一</string>
+        <key>icon</key>
+        <string>222714396868.png</string>
+        <key>text</key>
+        <string>魂锁典狱长的过去鲜为人知，并且大多数细节只存在于童谣和传闻中。它们讲述着一个丧心病狂的狱卒的故事。</string>
+        <key>name</key>
+        <string>魂锁典狱长·锤石</string>
+    </dict>
+    <dict>
+        <key>time</key>
+        <string>星期一</string>
+        <key>icon</key>
+        <string>219251317038.png</string>
+        <key>text</key>
+        <string>&apos;真遗憾。我有两只拳头，但你的脸上只放得下一只。&apos;-蔚</string>
+        <key>name</key>
+        <string>皮城执法官·蔚</string>
+    </dict>
+    <dict>
+        <key>time</key>
+        <string>星期一</string>
+        <key>icon</key>
+        <string>218041566099.png</string>
+        <key>text</key>
+        <string>&apos;我即是狂澜，且无法被力挽。&apos;-唤潮鲛姬·娜美。</string>
+        <key>name</key>
+        <string>唤潮鲛姬·娜美</string>
+    </dict>
+    <dict>
+        <key>time</key>
+        <string>星期一</string>
+        <key>icon</key>
+        <string>216813987373.png</string>
+        <key>text</key>
+        <string>&apos;均衡只是一个骗局，我们才是真正的忍者！&apos;影流之主-劫</string>
+        <key>name</key>
+        <string>影流之主·劫</string>
+    </dict>
+</array>
+</plist>

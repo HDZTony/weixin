@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5fae;&#x4fe1;&#x4f8b;&#x5b50;/FXTableViewCell.m"
+            timestampString = "475847398.27956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "-setItem:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5fae;&#x4fe1;&#x4f8b;&#x5b50;/FXTableViewCell.m"
+            timestampString = "475847398.27956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "-setItem:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5fae;&#x4fe1;&#x4f8b;&#x5b50;/FXTableViewCell.m"
+            timestampString = "475847398.27956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "-setItem:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FXTableViewCell setItem:]"
+                  moduleName = "&#x5fae;&#x4fe1;&#x4f8b;&#x5b50;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hedongzhou/%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%BE%AE%E4%BF%A1%E4%BE%8B%E5%AD%90/%E5%BE%AE%E4%BF%A1%E4%BE%8B%E5%AD%90/FXTableViewCell.m"
+                  timestampString = "475953926.719406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "2098">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FXTableViewCell setItem:]"
+                  moduleName = "&#x5fae;&#x4fe1;&#x4f8b;&#x5b50;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hedongzhou/%E7%BB%83%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E5%BE%AE%E4%BF%A1%E4%BE%8B%E5%AD%90/%E5%BE%AE%E4%BF%A1%E4%BE%8B%E5%AD%90/FXTableViewCell.m"
+                  timestampString = "475953926.71964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "2147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
